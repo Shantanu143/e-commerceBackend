@@ -20,7 +20,7 @@ public class User {
     private String password;
     private String address;
 
-    // Getters and Setters
+    // Getters and Setters  
     public int getId() {
         return id;
     }
